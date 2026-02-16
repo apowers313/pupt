@@ -1,3 +1,17 @@
+# [2.3.0](https://github.com/apowers313/pupt/compare/v2.2.1...v2.3.0) (2026-02-16)
+
+
+### Bug Fixes
+
+* adopt new pupt-lib regexp fixes ([b8a4979](https://github.com/apowers313/pupt/commit/b8a4979e3be8b576ed6936b8f6dbe99f2151c991))
+* fix init, rename prompts dir ([cf38661](https://github.com/apowers313/pupt/commit/cf386610466c4499c68efae6ad85e6ea784aaa14))
+* potential infinite loop in input collection ([a833d38](https://github.com/apowers313/pupt/commit/a833d3893249f612e580b75726e2d99e3751cebf))
+
+
+### Features
+
+* switch to using global config ([87ab2bb](https://github.com/apowers313/pupt/commit/87ab2bbd01391bb2d338b01d74d2971532b9692e))
+
 ## [2.2.1](https://github.com/apowers313/pupt/compare/v2.2.0...v2.2.1) (2026-02-11)
 
 

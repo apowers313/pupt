@@ -1,6 +1,6 @@
 {
   "name": "pupt",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "description": "Powerful Universal Prompt Tool - your faithful prompt companion",
   "type": "module",
   "main": "dist/index.js",
