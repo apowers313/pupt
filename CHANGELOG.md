@@ -1,3 +1,10 @@
+## [2.3.1](https://github.com/apowers313/pupt/compare/v2.3.0...v2.3.1) (2026-02-17)
+
+
+### Bug Fixes
+
+* move prompts from .prompts/ to prompts/ for new convention ([f1c520b](https://github.com/apowers313/pupt/commit/f1c520bf64e9999e5e0ffcf52dbe483f9fed42cc))
+
 # [2.3.0](https://github.com/apowers313/pupt/compare/v2.2.1...v2.3.0) (2026-02-16)
 
 
